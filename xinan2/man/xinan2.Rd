@@ -1,0 +1,13 @@
+\name{xinan2}
+\alias{xinan2}
+\title{xinan2}
+\usage{
+xinan2(a,b)
+}
+\description{
+z=a*a+b*b.
+}
+\examples{
+xinan2(1,2)
+}
+5
